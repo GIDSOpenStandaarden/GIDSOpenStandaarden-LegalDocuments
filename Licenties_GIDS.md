@@ -93,175 +93,16 @@ Offerte checklist:
 
 **Achtergrondinformatie over licenties en mogelijkheden bij GIDS:**
 
+| Onderdeel   | Doelen      | Karakteristieken licentie | Voorgestelde licentie | Opmerkingen |
 |-------------|-------------|-------------|-------------|-------------|
-| Onderdeel   | Doelen      | Karakterist | Voorgesteld | Opmerkingen |
-|             |             | ieken       | e           |             |
-|             |             | licentie    | licentie    |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Protocol    | De licentie |             |             | Argumenten  |
-| definities  | of de       |             |             | voor        |
-|             | IP-rechten  |             |             | mozilla     |
-|             | mogen geen  |             |             | licentie:   |
-|             | belemmering |             |             |             |
-|             | zijn voor   |             |             |             |
-|             | het         |             |             |             |
-|             | toepassen   |             |             |             |
-|             | van het     |             |             |             |
-|             | protocol,   |             |             |             |
-|             | ook niet    |             |             |             |
-|             | als het     |             |             |             |
-|             | protocol in |             |             |             |
-|             | closed      |             |             |             |
-|             | source      |             |             |             |
-|             | producten   |             |             |             |
-|             | wordt       |             |             |             |
-|             | toegepast.  |             |             |             |
-|             |             |             |             |             |
-|             | De          |             |             |             |
-|             | organisatie |             |             |             |
-|             | s           |             |             |             |
-|             | die         |             |             |             |
-|             | bijdragen   |             |             |             |
-|             | aan het     |             |             |             |
-|             | protocol    |             |             |             |
-|             | moeten      |             |             |             |
-|             | gedeeld     |             |             |             |
-|             | eigenaarsch |             |             |             |
-|             | ap          |             |             |             |
-|             | voelen, ze  |             |             |             |
-|             | moeten zich |             |             |             |
-|             | aangemoedig |             |             |             |
-|             | d           |             |             |             |
-|             | voelen om   |             |             |             |
-|             | wijzigingen |             |             |             |
-|             | voor te     |             |             |             |
-|             | stellen en  |             |             |             |
-|             | om bij te   |             |             |             |
-|             | dragen aan  |             |             |             |
-|             | nieuwe      |             |             |             |
-|             | versies.    |             |             |             |
-|             |             |             |             |             |
-|             | Private     |             |             |             |
-|             | wijzigingen |             |             |             |
-|             | aan de      |             |             |             |
-|             | protocol    |             |             |             |
-|             | definities  |             |             |             |
-|             | of het      |             |             |             |
-|             | forken van  |             |             |             |
-|             | de protocol |             |             |             |
-|             | definities  |             |             |             |
-|             | moeten      |             |             |             |
-|             | ontmoedigd  |             |             |             |
-|             | worden: een |             |             |             |
-|             | geforkte    |             |             |             |
-|             | standaard   |             |             |             |
-|             | is geen     |             |             |             |
-|             | standaard   |             |             |             |
-|             | meer.       |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Libraries   | De          |             |             | Argumenten  |
-|             | libraries   |             |             | voor LGPL:  |
-|             | moeten      |             |             |             |
-|             | toegepast   |             |             | NB: voor de |
-|             | kunnen      |             |             | overzichtel |
-|             | worden in   |             |             | ijkheid     |
-|             | producten,  |             |             | zouden we   |
-|             | zonder dat  |             |             | hier ook de |
-|             | het de      |             |             | Mozilla     |
-|             | juridische  |             |             | license     |
-|             | status van  |             |             | kunnen      |
-|             | het prodoct |             |             | gebruiken,  |
-|             | (zelfs      |             |             | maar die    |
-|             | closed      |             |             | laat iets   |
-|             | source)     |             |             | meer ruimte |
-|             | beïnvloed.  |             |             | om          |
-|             |             |             |             | wijzigingen |
-|             | De library  |             |             | aan de      |
-|             | is          |             |             | library     |
-|             | onderdeel   |             |             | niet te     |
-|             | van een     |             |             | delen. Ook  |
-|             | community-e |             |             | maakt die   |
-|             | ffort       |             |             | het         |
-|             | en het      |             |             | moeilijker  |
-|             | gebruik van |             |             | om de       |
-|             | de library  |             |             | libraries   |
-|             | gaat        |             |             | op te nemen |
-|             | gepaard met |             |             | in GPL      |
-|             | de          |             |             | gelicenceee |
-|             | verwachting |             |             | rde         |
-|             | ook bij te  |             |             | software,   |
-|             | dragen aan  |             |             | in dat      |
-|             | de          |             |             | geval zou   |
-|             | community.  |             |             | er een      |
-|             |             |             |             | dubbele     |
-|             |             |             |             | licentie    |
-|             |             |             |             | afgegeven   |
-|             |             |             |             | moeten      |
-|             |             |             |             | worden.     |
-|-------------|-------------|-------------|-------------|-------------|
-| Documentati | De          |             |             |             |
-| e           | documentati |             |             |             |
-| bij         | e           |             |             |             |
-| protocollen | moet intern |             |             |             |
-| en          | vrijelijk   |             |             |             |
-| libraries   | verder      |             |             |             |
-|             | verspreid   |             |             |             |
-|             | kunnen      |             |             |             |
-|             | worden, al  |             |             |             |
-|             | dan niet    |             |             |             |
-|             | met         |             |             |             |
-|             | aanwijzinge |             |             |             |
-|             | n,          |             |             |             |
-|             | aanpassinge |             |             |             |
-|             | n           |             |             |             |
-|             | of          |             |             |             |
-|             | toevoeginge |             |             |             |
-|             | n           |             |             |             |
-|             | die         |             |             |             |
-|             | specifiek   |             |             |             |
-|             | zijn voor   |             |             |             |
-|             | de          |             |             |             |
-|             | situatie.   |             |             |             |
-|             |             |             |             |             |
-|             | Feedback/bu |             |             |             |
-|             | gfixes      |             |             |             |
-|             | worden      |             |             |             |
-|             | gewaardeerd |             |             |             |
-|             | .           |             |             |             |
-|             |             |             |             |             |
-|             | Attributie  |             |             |             |
-|             | is niet     |             |             |             |
-|             | noodzakelij |             |             |             |
-|             | k           |             |             |             |
-|             | omdat de    |             |             |             |
-|             | documentati |             |             |             |
-|             | e           |             |             |             |
-|             | al verwijst |             |             |             |
-|             | naar het    |             |             |             |
-|             | GIDS        |             |             |             |
-|             | protocol.   |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Overige     | De          |             |             |             |
-| documenten  | documenten  |             |             |             |
-|             | rond GIDS   |             |             |             |
-|             | moeten      |             |             |             |
-|             | vrijelijk   |             |             |             |
-|             | gebruikt en |             |             |             |
-|             | verspreid   |             |             |             |
-|             | kunnen      |             |             |             |
-|             | worden. Ze  |             |             |             |
-|             | zijn echter |             |             |             |
-|             | onderdeel   |             |             |             |
-|             | van         |             |             |             |
-|             | collectief  |             |             |             |
-|             | leer- en    |             |             |             |
-|             | ontwikkelpr |             |             |             |
-|             | oces        |             |             |             |
-|             | en ze zijn  |             |             |             |
-|             | ook deels   |             |             |             |
-|             | uithangbord |             |             |             |
-|             | voor GIDS.  |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
+| Protocol definities | De licentie of de IP-rechten mogen geen belemmering zijn voor het toepassen van het protocol, ook niet als het protocol in closed source producten wordt toegepast. De organisaties die bijdragen aan het protocol moeten gedeeld eigenaarschap voelen, ze moeten zich aangemoedigd voelen om wijzigingen voor te stellen en om bij te dragen aan nieuwe versies. Private wijzigingen aan de protocol definities of het forken van de protocol definities moeten ontmoedigd worden: een geforkte standaard is geen standaard meer. | Toepassen is vrij, ook commerciële en closed source toepassingen. Toepassingen van de protocol definities hoeven niet gedeeld te worden.  Bescherming tegen IP-claims. Wijzigen mag. Wijzigingen altijd op zelfde voorwaarden delen. Naam & logo van GIDS registreren, bepalen dat ze alleen gevoerd mogen worden voor het protocol als het door GIDS geautoriseerd is. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. Mozilla license. Contributers  agreement (lichte versie). Trademark policy voor GIDS die voorschrijft dat alleen de door [SamenBeter of GIDS] goedgekeurde versie een ‘GIDS open standaard’ genoemd mag worden. | Argumenten voor mozilla licentie: Geen ‘besmettings effect’, alleen wijzigingen aan het bestand zelf moeten wederkerig gedeeld worden. Krachtige patent bescherming. Het ontbreken van een contributers agreement is niet fataal bij deze licentie. |
+||
+| Libraries | De libraries moeten toegepast kunnen worden in producten, zonder dat het de juridische status van het prodoct (zelfs closed source) beïnvloed. De library is onderdeel van een community-effort en het gebruik van de library gaat gepaard met de verwachting ook bij te dragen aan de community. | Licentie die toepassing van libraries toestaat in commerciele software. Wijzigingen altijd delen en onder dezelfde voorwarden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. LGPL. Contributers agreement (lichte versie) | Argumenten voor LGPL: Geen ‘besmettingseffect’ buiten de library. Wijzigingen aan de library zelf moeten wel gedeeld worden. NB: voor de overzichtelijkheid zouden we hier ook de Mozilla license kunnen gebruiken, maar die laat iets meer ruimte om wijzigingen aan de library niet te delen. Ook maakt die het moeilijker om de libraries op te nemen in GPL gelicenceeerde software, in dat geval zou er een dubbele licentie afgegeven moeten worden. |
+||
+| Documentatie bij protocollen en libraries | De documentatie moet intern vrijelijk verder verspreid kunnen worden, al dan niet met aanwijzingen, aanpassingen of toevoegingen die specifiek zijn voor de situatie. Feedback/bugfixes worden gewaardeerd. Attributie is niet noodzakelijk omdat de documentatie al verwijst naar het GIDS protocol. | Permissive license. Geschikt voor text- en beeldmateriaal. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. CC zonder verdere beperkingen | |
+||
+| Overige documenten | De documenten rond GIDS moeten vrijelijk gebruikt en verspreid kunnen worden. Ze zijn echter onderdeel van collectief leer- en ontwikkelproces en ze zijn ook deels uithangbord voor GIDS. | Permissive license. Geschikt voor text- en beeldmateriaal. Afgeleide werken openlijk delen. Bron blijven vermelden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. CC-SA-BY ||
+
 
 Algemene noot:
 
@@ -308,127 +149,24 @@ LGPL:
 
 **Overzicht open licentietypen:**
 
+
+|             | Academic    | Permissive  | Closable    | Reciprocal  |
 |-------------|-------------|-------------|-------------|-------------|
-| Licentie    | Academic    | Permissive  | Closable    | Reciprocal  |
-| typen       |             |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Voorbeelden | BSD, MIT    | Apache      | LGPL,       | GPL, Open   |
-|             |             |             | Mozilla     | Software    |
-|             |             |             |             | License     |
-|-------------|-------------|-------------|-------------|-------------|
-| Wederkerig? | Nee         | Nee         | Alleen over | Over alle   |
-|             |             |             | bestand of  | producten   |
-|             |             |             | library     | waarin het  |
-|             |             |             |             | verwerkt is |
-|-------------|-------------|-------------|-------------|-------------|
-| Bescherming | Geen        | Ja          | Ja          | Ja          |
-| tegen       |             |             |             |             |
-| patentclaim |             |             |             |             |
-| s           |             |             |             |             |
-| en          |             |             |             |             |
-| trademark   |             |             |             |             |
-| issues?     |             |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Compatibel  | Ja          | Ja          | Ja, maar    | Nee         |
-| met closed  |             |             | bestand/lib |             |
-| source      |             |             | rary        |             |
-| licenties?  |             |             | zelf mag    |             |
-|             |             |             | niet        |             |
-|             |             |             | gesloten    |             |
-|             |             |             | worden      |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Compatibel  | Alleen naar | Alleen naar | Ja          | n.v.t.      |
-| met         | GPL/OSL,    | GPL/OSL,    |             |             |
-| Reciprocal  | niet terug  | niet terug  |             |             |
-| licenties   |             |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
-| Analyse     | Door het    | Door het    | Deze        | Dit zijn de |
-| voor        | ontbreken   | ontbreken   | licenties   | licenties   |
-| SB/GIDS     | van         | van         | voorzien in | waar Steve  |
-|             | wederkerigh | wederkerigh | wederkerigh | Balmer op   |
-|             | eid         | eid         | eid         | doelde toen |
-|             | kunnen      | kunnen      | zonder dat  | hij zei:    |
-|             | leverancier | leverancier | alle        | \"Linux is  |
-|             | s           | s           | producten   | a cancer    |
-|             | meeliften   | meeliften   | waarin het  | that        |
-|             | zonder deel | zonder deel | gebruikt    | attaches    |
-|             | te nemen    | te nemen    | wordt ermee | itself in   |
-|             | aan de      | aan de      | besmet      | an          |
-|             | community.  | community.  | worden.     | intellectua |
-|             | Het is de   | Het is de   | Daardoor    | l           |
-|             | vraag of we | vraag of we | zijn deze   | property    |
-|             | dat willen. | dat willen. | licenties   | sense to    |
-|             |             |             | zowel       | everything  |
-|             | De          | De          | compatibel  | it          |
-|             | bescherming | bescherming | met closed  | touches,\"  |
-|             | tegen       | tegen       | source als  | Je kan van  |
-|             | IP-claims   | IP-claims   | met GPL.    | Steve       |
-|             | is erg      | is wel      |             | Balmer      |
-|             | minimaal.   | voldoende   | Implementat | vinden wat  |
-|             | Deze        | om          | ie          | je vindt,   |
-|             | licenties   | bijdragen   | in closed   | maar op dit |
-|             | maken het   | van andere  | source      | punt had    |
-|             | bijvoorbeel | te          | vraagt wel  | hij gelijk. |
-|             | d           | accepteren. | dat library | GPL en OSL  |
-|             | mogelijk    |             | en het het  | mengen niet |
-|             | dat een     | Daarmee zou | product     | met closed  |
-|             | leverancier | deze        | waarin het  | source en   |
-|             | een         | licentie    | gebruikt    | is daarom   |
-|             | bijdrage    | een optie   | wordt goed  | geen optie  |
-|             | levert      | zijn voor   | gescheiden  | voor        |
-|             | waarover ze | SB/GIDS     | worden.     | SB/GIDS.    |
-|             | later       |             |             |             |
-|             | onthullen   |             | Deze        |             |
-|             | dat ze een  |             | licentie is |             |
-|             | patent      |             | dus een     |             |
-|             | geclaimd    |             | optie voor  |             |
-|             | hebben en   |             | SB/GIDS en  |             |
-|             | vervolgens  |             | het         |             |
-|             | eisen dat   |             | versterkt   |             |
-|             | er          |             | de          |             |
-|             | licentiekos |             | community   |             |
-|             | ten         |             | gedachte en |             |
-|             | betaald     |             | de          |             |
-|             | worden over |             | wederkerigh |             |
-|             | het         |             | eid         |             |
-|             | implementer |             | die achter  |             |
-|             | en          |             | SB/GIDS     |             |
-|             | van het     |             | zit.        |             |
-|             | protocol.   |             |             |             |
-|             |             |             |             |             |
-|             | Daardoor is |             |             |             |
-|             | deze        |             |             |             |
-|             | licentie    |             |             |             |
-|             | alleen      |             |             |             |
-|             | geschikt    |             |             |             |
-|             | voor        |             |             |             |
-|             | organisatie |             |             |             |
-|             | s           |             |             |             |
-|             | die zelf    |             |             |             |
-|             | software    |             |             |             |
-|             | schrijven   |             |             |             |
-|             | en          |             |             |             |
-|             | vervolgens  |             |             |             |
-|             | publiek     |             |             |             |
-|             | 'over de    |             |             |             |
-|             | heg'        |             |             |             |
-|             | gooien,     |             |             |             |
-|             | zoals       |             |             |             |
-|             | universitei |             |             |             |
-|             | ten.        |             |             |             |
-|             | Als er      |             |             |             |
-|             | bijdragen   |             |             |             |
-|             | van andere  |             |             |             |
-|             | geaccepteer |             |             |             |
-|             | d           |             |             |             |
-|             | worden, is  |             |             |             |
-|             | deze        |             |             |             |
-|             | licentie    |             |             |             |
-|             | minder      |             |             |             |
-|             | geschikt.   |             |             |             |
-|-------------|-------------|-------------|-------------|-------------|
+| Voorbeelden | BSD, MIT    | Apache      | LGPL, Mozilla | GPL, Open Software License |
+||
+| Wederkerig? | Nee         | Nee         | Alleen over bestand of library | Over alle producten waarin het verwerkt is |
+||
+| Bescherming  tegen patentclaims en trademark issues? | Geen | Ja | Ja | Ja |
+||
+| Compatibel met closed source licenties? | Ja | Ja | Ja, maar bestand/library zelf mag niet gesloten worden | Nee |
+||
+| Compatibel met Reciprocal licenties | Alleen naar GPL/OSL, niet terug | Alleen naar naar GPL/OSL, niet terug | Ja          | n.v.t. |
+||
+| Analyse voor SB/GIDS | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is erg minimaal. Deze licenties maken het bijvoorbeeld mogelijk dat een leverancier een bijdrage levert waarover ze later onthullen dat ze een patent geclaimd hebben en vervolgens eisen dat er licentiekosten betaald worden over het implementeren van het protocol. Daardoor is deze licentie alleen geschikt voor organisaties die zelf software schrijven en vervolgens publiek ‘over de heg’ gooien, zoals universiteiten. Als er bijdragen van andere geaccepteerd worden, is deze licentie minder geschikt. | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is wel voldoende om bijdragen van andere te accepteren. Daarmee zou deze licentie een optie zijn voor SB/GIDS | Deze licenties voorzien in wederkerigheid zonder dat alle producten waarin het gebruikt wordt ermee besmet worden. Daardoor zijn deze licenties zowel compatibel met closed source als met GPL. Implementatie in closed source vraagt wel dat library en het het product waarin het gebruikt wordt goed gescheiden worden. Deze licentie is dus een optie voor SB/GIDS en het versterkt de community gedachte en de wederkerigheid die achter SB/GIDS zit. | Dit zijn de licenties waar Steve Balmer op doelde toen hij zei: "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," Je kan van Steve Balmer vinden wat je vindt, maar op dit punt had hij gelijk. GPL en OSL mengen niet met closed source en is daarom geen optie voor SB/GIDS. |
+
 
 **Conclusie:**
+
 met academic style licenties lopen we te veel risico, met
 reciprocal licenties sluiten we closed source buiten. Die twee vallen
 dus sowieso af De keuze tussen een permissive licentie en een closable
