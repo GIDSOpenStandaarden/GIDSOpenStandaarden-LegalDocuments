@@ -1,3 +1,7 @@
+# GIDS legal documents
+Repository of legal documents relevant for SamenBeter and GIDS. These documents adhere to the Legal Commons Standard. See [legal commons](https://github.com/LegalCommons).
+
+
 # Legal Commons
 Legal Commons documents formalize and structurize the practice of many lawyers to re-use each others code. It:
 
