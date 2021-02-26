@@ -13,6 +13,6 @@ In Dutch. A for non legal educated people readable minimalist processor agreemen
 In Dutch. An analysis of open sourse licenses and how appropriate they would be for the community of GIDS Open Standaarden, including some considerations on copyright attribution [Voorstel Licenties GIDS](https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-LegalDocuments/blob/master/Licenties_GIDS.md). The conclusion of this analysis is to use MPL for code and CC-SA-BY for other documents, this is agreed upon in the document [GIDS Open Standaarden community afspraken en tools gebruiken](https://docs.google.com/document/d/15pgRFJ3IJN7aG1ZwZLTlmxsUD1qTA4iUY3iC6emL5GU/edit?usp=sharing).
 
 # Versioning of the documents
-The documents in this repository are 'stable'. If there is a need for new versions, are any issues or proposals for improvement, these will be discusses in a Google docs document before moving them to this repository.
+The documents in this repository are 'stable'. If there is a need for new versions, are any issues or proposals for improvement, these will be discusses in a Google docs document before moving them to this repository. 'Unstable' and 'testing' documents can be found at: [Juridisch](https://drive.google.com/drive/folders/1N0zDy4lFVxXnDEjkhfDQhqDnSbk3h-9J?usp=sharing)
 
 (c) 2021 Winfried Tilanus, CC-SA-BY 4.0
