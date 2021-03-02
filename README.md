@@ -12,12 +12,11 @@ A for non legal educated people readable minimalist processor agreement that can
 ## Proposal and conclusion licences GIDS Open Standaarden
 An analysis of open sourse licenses and how appropriate they would be for the community of GIDS Open Standaarden, including some considerations on copyright attribution [Voorstel Licenties GIDS](https://github.com/GIDSOpenStandaarden/GIDSOpenStandaarden-LegalDocuments/blob/master/Licenties_GIDS.md) in Dutch. 
 
-The conclusion of this analysis is to use MPL for code and CC-SA-BY for other documents, this is agreed upon in the document [GIDS Open Standaarden community afspraken en tools gebruiken](https://docs.google.com/document/d/15pgRFJ3IJN7aG1ZwZLTlmxsUD1qTA4iUY3iC6emL5GU/edit?usp=sharing) in Dutch. Everyone makes realized intellectual property publicly available under license. When implementing these licenses, you follow the indicated "best practices".
+The conclusion of this analysis is that everyone who uses or contributes to GIDS Open Standaarden makes realized intellectual property publicly available under license. When implementing these licenses, you follow the indicated "best practices".
 * Content: [Creative Commons Attribution Sharealike 4.0](https://creativecommons.org/licenses/by-sa/4.0/.) | [best practices](https://wiki.creativecommons.org/wiki/Best_practices_for_attribution)
 * Software: [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/) | [best practices](http://softwarefreedom.org/resources/2012/ManagingCopyrightInformation.html)
-* Policy: see the contents of this github repository.
 
 # Versioning of the documents
-The documents in this repository are 'stable'. If there is a need for new versions, are any issues or proposals for improvement, these will be discusses in a Google docs document before moving them to this repository. 'Unstable' and 'testing' documents can be found at: [Juridisch](https://drive.google.com/drive/folders/1N0zDy4lFVxXnDEjkhfDQhqDnSbk3h-9J?usp=sharing)
+The documents in this repository are 'stable'. If there is a need for new versions, are any issues or proposals for improvement, these will be discussed in a Google docs document before moving them to this repository. 'Unstable' and 'testing' documents can be found at: [Juridisch](https://drive.google.com/drive/folders/1N0zDy4lFVxXnDEjkhfDQhqDnSbk3h-9J?usp=sharing)
 
 (c) 2021 Winfried Tilanus, CC-SA-BY 4.0
