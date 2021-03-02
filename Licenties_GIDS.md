@@ -1,5 +1,5 @@
-# Voorstel Licenties GIDS
-(c) 2019 Winfried Tilanus - This is written as part of GIDS open standards. CC-SA-BY 4.0
+# Voorstel Licenties GIDS Open Standaarden
+(c) 2019 Winfried Tilanus - This is written as part of GIDS Open Standaarden. CC-SA-BY 4.0
 
 **Voorstel:**
 
@@ -7,7 +7,7 @@ Code & protocol: MPL
 
 Tekst & artwork: CC-SA-BY
 
-Uitgangspunten van GIDS:
+Uitgangspunten van GIDS Open Standaarden:
 
 -   Protocol en libraries moeten door elke organisatie, onafhankelijk
     van met welke andere licentie ze werken, bruikbaar zijn voor hun
@@ -24,7 +24,7 @@ Uitgangspunten van GIDS:
 
 Er zal altijd een balans gevonden moeten worden tussen de eis van
 implementeerbaar door elke organisatie en de eis van wederkerigheid.
-Voor GIDS geldt dat de licentie de toepassing in closed source
+Voor GIDS Open Standaarden geldt dat de licentie de toepassing in closed source
 applicaties zeker niet in de weg mag staan. De wederkerigheid is een
 onderdeel van het opbouwen van de community, maar geen doel zich. De
 wederkerigheid kan gelden voor de complete toepassing van het product
@@ -59,16 +59,16 @@ op naam van het bedrijf of op persoonlijke titel kunnen ze met het
 bedrijf afspreken. Een ander punt is dat de copyright houder bij
 schending van de licentie in principe verantwoordelijk is voor het
 aanspreken van de schenders of het starten van procedures. Dat kan
-opgevangen worden als GIDS namens de contributors daar zorg voor draagt.
+opgevangen worden als GIDS Open Standaarden namens de contributors daar zorg voor draagt.
 
 Verder is het goed om te vermelden dat het werk onderdeel is van GIDS
-open staandaarden.
+Open Staandaarden.
 
 De copyright notice zou er dan als volgt uit kunnen zien:
 
 © Copyright \[oorspronkelijke auteur\] and contributors \[first
 published year\] -- \[current year\]. This is written as part of GIDS
-open standards.
+Open Standaarden.
 
 MPL regelt intellectueel eigendom zaken uitgebreid, maar bij bijdragen
 door derden aan een project met een MPL licentie, zijn er alsnog een
@@ -89,26 +89,26 @@ Offerte checklist:
 -   Alle code en protocol definities worden ter beschikking gesteld
     onder de 'Mozilla Public License'
 -   Alle tekst en artwork wordt ter beschikking gesteld onder de
-    CC-SA-BY (3.0) licentie.
+    CC-SA-BY (4.0) licentie.
 
-**Achtergrondinformatie over licenties en mogelijkheden bij GIDS:**
+**Achtergrondinformatie over licenties en mogelijkheden bij GIDS Open Standaarden:**
 
 | Onderdeel   | Doelen      | Karakteristieken licentie | Voorgestelde licentie | Opmerkingen |
 |-------------|-------------|-------------|-------------|-------------|
-| Protocol definities | De licentie of de IP-rechten mogen geen belemmering zijn voor het toepassen van het protocol, ook niet als het protocol in closed source producten wordt toegepast. De organisaties die bijdragen aan het protocol moeten gedeeld eigenaarschap voelen, ze moeten zich aangemoedigd voelen om wijzigingen voor te stellen en om bij te dragen aan nieuwe versies. Private wijzigingen aan de protocol definities of het forken van de protocol definities moeten ontmoedigd worden: een geforkte standaard is geen standaard meer. | Toepassen is vrij, ook commerciële en closed source toepassingen. Toepassingen van de protocol definities hoeven niet gedeeld te worden.  Bescherming tegen IP-claims. Wijzigen mag. Wijzigingen altijd op zelfde voorwaarden delen. Naam & logo van GIDS registreren, bepalen dat ze alleen gevoerd mogen worden voor het protocol als het door GIDS geautoriseerd is. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. Mozilla license. Contributers  agreement (lichte versie). Trademark policy voor GIDS die voorschrijft dat alleen de door [SamenBeter of GIDS] goedgekeurde versie een ‘GIDS open standaard’ genoemd mag worden. | Argumenten voor mozilla licentie: Geen ‘besmettings effect’, alleen wijzigingen aan het bestand zelf moeten wederkerig gedeeld worden. Krachtige patent bescherming. Het ontbreken van een contributers agreement is niet fataal bij deze licentie. |
+| Protocol definities | De licentie of de IP-rechten mogen geen belemmering zijn voor het toepassen van het protocol, ook niet als het protocol in closed source producten wordt toegepast. De organisaties die bijdragen aan het protocol moeten gedeeld eigenaarschap voelen, ze moeten zich aangemoedigd voelen om wijzigingen voor te stellen en om bij te dragen aan nieuwe versies. Private wijzigingen aan de protocol definities of het forken van de protocol definities moeten ontmoedigd worden: een geforkte standaard is geen standaard meer. | Toepassen is vrij, ook commerciële en closed source toepassingen. Toepassingen van de protocol definities hoeven niet gedeeld te worden.  Bescherming tegen IP-claims. Wijzigen mag. Wijzigingen altijd op zelfde voorwaarden delen. Naam & logo van GIDS Open Standaarden registreren, bepalen dat ze alleen gevoerd mogen worden voor het protocol als het door GIDS Open Standaarden geautoriseerd is. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor Stichting Beter met Elkaar” er bij. Mozilla license. Contributers  agreement (lichte versie). Trademark policy voor GIDS Open Standaarden die voorschrijft dat alleen de door [GIDS Open Standaarden] goedgekeurde versie een ‘GIDS Open Standaard’ genoemd mag worden. | Argumenten voor mozilla licentie: Geen ‘besmettings effect’, alleen wijzigingen aan het bestand zelf moeten wederkerig gedeeld worden. Krachtige patent bescherming. Het ontbreken van een contributers agreement is niet fataal bij deze licentie. |
 ||
-| Libraries | De libraries moeten toegepast kunnen worden in producten, zonder dat het de juridische status van het prodoct (zelfs closed source) beïnvloed. De library is onderdeel van een community-effort en het gebruik van de library gaat gepaard met de verwachting ook bij te dragen aan de community. | Licentie die toepassing van libraries toestaat in commerciele software. Wijzigingen altijd delen en onder dezelfde voorwarden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. LGPL. Contributers agreement (lichte versie) | Argumenten voor LGPL: Geen ‘besmettingseffect’ buiten de library. Wijzigingen aan de library zelf moeten wel gedeeld worden. NB: voor de overzichtelijkheid zouden we hier ook de Mozilla license kunnen gebruiken, maar die laat iets meer ruimte om wijzigingen aan de library niet te delen. Ook maakt die het moeilijker om de libraries op te nemen in GPL gelicenceeerde software, in dat geval zou er een dubbele licentie afgegeven moeten worden. |
+| Libraries | De libraries moeten toegepast kunnen worden in producten, zonder dat het de juridische status van het prodoct (zelfs closed source) beïnvloed. De library is onderdeel van een community-effort en het gebruik van de library gaat gepaard met de verwachting ook bij te dragen aan de community. | Licentie die toepassing van libraries toestaat in commerciele software. Wijzigingen altijd delen en onder dezelfde voorwarden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor Stichting Beter met Elkaar” er bij. LGPL. Contributers agreement (lichte versie) | Argumenten voor LGPL: Geen ‘besmettingseffect’ buiten de library. Wijzigingen aan de library zelf moeten wel gedeeld worden. NB: voor de overzichtelijkheid zouden we hier ook de Mozilla license kunnen gebruiken, maar die laat iets meer ruimte om wijzigingen aan de library niet te delen. Ook maakt die het moeilijker om de libraries op te nemen in GPL gelicenceeerde software, in dat geval zou er een dubbele licentie afgegeven moeten worden. |
 ||
-| Documentatie bij protocollen en libraries | De documentatie moet intern vrijelijk verder verspreid kunnen worden, al dan niet met aanwijzingen, aanpassingen of toevoegingen die specifiek zijn voor de situatie. Feedback/bugfixes worden gewaardeerd. Attributie is niet noodzakelijk omdat de documentatie al verwijst naar het GIDS protocol. | Permissive license. Geschikt voor text- en beeldmateriaal. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. CC zonder verdere beperkingen | |
+| Documentatie bij protocollen en libraries | De documentatie moet intern vrijelijk verder verspreid kunnen worden, al dan niet met aanwijzingen, aanpassingen of toevoegingen die specifiek zijn voor de situatie. Feedback/bugfixes worden gewaardeerd. Attributie is niet noodzakelijk omdat de documentatie al verwijst naar het GIDS Open Standaarden protocol. | Permissive license. Geschikt voor text- en beeldmateriaal. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor Stichting Beter met ELkaar” er bij. CC zonder verdere beperkingen | |
 ||
-| Overige documenten | De documenten rond GIDS moeten vrijelijk gebruikt en verspreid kunnen worden. Ze zijn echter onderdeel van collectief leer- en ontwikkelproces en ze zijn ook deels uithangbord voor GIDS. | Permissive license. Geschikt voor text- en beeldmateriaal. Afgeleide werken openlijk delen. Bron blijven vermelden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor SamenBeter” er bij. CC-SA-BY ||
+| Overige documenten | De documenten rond GIDS Open Standaarden moeten vrijelijk gebruikt en verspreid kunnen worden. Ze zijn echter onderdeel van collectief leer- en ontwikkelproces en ze zijn ook deels uithangbord voor GIDS Open Standaarden. | Permissive license. Geschikt voor text- en beeldmateriaal. Afgeleide werken openlijk delen. Bron blijven vermelden. | Copyright op naam van natuurlijke personen die het schrijven met vermelding “voor Stichting Beter met Elkaar” er bij. CC-SA-BY ||
 
 
 Algemene noot:
 
-SamenBeter wil zelf zo min mogelijk copyrights hebben om problemen met
+Stichting Beter met Elkaar wil zelf zo min mogelijk copyrights hebben om problemen met
 valuatie en procedures te voorkomen. Juridisch gezien is het echter veel
-makkelijker om alles op naam van SamenBeter te zetten.
+makkelijker om alles op naam van Stichting Beter met Elkaar te zetten.
 
 **Notities bij licenties (shortlist):**
 
@@ -162,7 +162,7 @@ LGPL:
 ||
 | Compatibel met Reciprocal licenties | Alleen naar GPL/OSL, niet terug | Alleen naar naar GPL/OSL, niet terug | Ja          | n.v.t. |
 ||
-| Analyse voor SB/GIDS | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is erg minimaal. Deze licenties maken het bijvoorbeeld mogelijk dat een leverancier een bijdrage levert waarover ze later onthullen dat ze een patent geclaimd hebben en vervolgens eisen dat er licentiekosten betaald worden over het implementeren van het protocol. Daardoor is deze licentie alleen geschikt voor organisaties die zelf software schrijven en vervolgens publiek ‘over de heg’ gooien, zoals universiteiten. Als er bijdragen van andere geaccepteerd worden, is deze licentie minder geschikt. | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is wel voldoende om bijdragen van andere te accepteren. Daarmee zou deze licentie een optie zijn voor SB/GIDS | Deze licenties voorzien in wederkerigheid zonder dat alle producten waarin het gebruikt wordt ermee besmet worden. Daardoor zijn deze licenties zowel compatibel met closed source als met GPL. Implementatie in closed source vraagt wel dat library en het het product waarin het gebruikt wordt goed gescheiden worden. Deze licentie is dus een optie voor SB/GIDS en het versterkt de community gedachte en de wederkerigheid die achter SB/GIDS zit. | Dit zijn de licenties waar Steve Balmer op doelde toen hij zei: "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," Je kan van Steve Balmer vinden wat je vindt, maar op dit punt had hij gelijk. GPL en OSL mengen niet met closed source en is daarom geen optie voor SB/GIDS. |
+| Analyse voor BmE/GIDS | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is erg minimaal. Deze licenties maken het bijvoorbeeld mogelijk dat een leverancier een bijdrage levert waarover ze later onthullen dat ze een patent geclaimd hebben en vervolgens eisen dat er licentiekosten betaald worden over het implementeren van het protocol. Daardoor is deze licentie alleen geschikt voor organisaties die zelf software schrijven en vervolgens publiek ‘over de heg’ gooien, zoals universiteiten. Als er bijdragen van andere geaccepteerd worden, is deze licentie minder geschikt. | Door het ontbreken van wederkerigheid kunnen leveranciers meeliften zonder deel te nemen aan de community. Het is de vraag of we dat willen. De bescherming tegen IP-claims is wel voldoende om bijdragen van andere te accepteren. Daarmee zou deze licentie een optie zijn voor BmE/GIDS | Deze licenties voorzien in wederkerigheid zonder dat alle producten waarin het gebruikt wordt ermee besmet worden. Daardoor zijn deze licenties zowel compatibel met closed source als met GPL. Implementatie in closed source vraagt wel dat library en het het product waarin het gebruikt wordt goed gescheiden worden. Deze licentie is dus een optie voor BmE/GIDS en het versterkt de community gedachte en de wederkerigheid die achter BmE/GIDS zit. | Dit zijn de licenties waar Steve Balmer op doelde toen hij zei: "Linux is a cancer that attaches itself in an intellectual property sense to everything it touches," Je kan van Steve Balmer vinden wat je vindt, maar op dit punt had hij gelijk. GPL en OSL mengen niet met closed source en is daarom geen optie voor BmE/GIDS. |
 
 
 **Conclusie:**
@@ -170,5 +170,5 @@ LGPL:
 met academic style licenties lopen we te veel risico, met
 reciprocal licenties sluiten we closed source buiten. Die twee vallen
 dus sowieso af De keuze tussen een permissive licentie en een closable
-licentie voor GIDS is vooral een vraag van hoeveel wederkerigheid we
+licentie voor GIDS Open Standaarden is vooral een vraag van hoeveel wederkerigheid we
 willen afdwingen.
